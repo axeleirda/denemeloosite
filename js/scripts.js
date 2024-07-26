@@ -1,0 +1,1 @@
+// JavaScript dosyası (şu an boş)
